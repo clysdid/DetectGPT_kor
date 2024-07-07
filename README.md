@@ -7,5 +7,8 @@
 
 
 ## USAGE
-
+코드 실행
+```
 python infer_kor.py
+```
+
